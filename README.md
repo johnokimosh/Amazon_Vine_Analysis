@@ -36,4 +36,4 @@ Client requests analyzing Amazon reviews written by members of the paid Amazon V
 - B. Total Verified Non-Vine (unpaid) 5-Star reviews were 3,594
 - C. Percentage of Verifired Non-Vine (unpaid) 5-Star reviews were 38.42%
 
-- After completing an additional analysis to filter "verified purchases" the to get an more accurate representation of customer who actually purchased the products, the positive bias for Vine reviews increases by 10.47 percentage points.
+- After completing an additional analysis to filter "verified purchases" in order to get a more accurate representation of customers who actually purchased the products, the positivity bias for Vine reviews increases by 10.47 percentage points.
